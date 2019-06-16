@@ -2,6 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Mario Plan
 
-App built for Shaun Palings React, Redux and Firebase App Tutorial
+App built for Shaun Pellings React, Redux and Firebase App Tutorial
 
 
